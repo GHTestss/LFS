@@ -3,3 +3,4 @@ lfs.jpg filter=lfs diff=lfs merge=lfs -text
 lfs_przyrost.jpg filter=lfs diff=lfs merge=lfs -text
 LFS26042023przyrost filter=lfs diff=lfs merge=lfs -text
 Basic.txt filter=lfs diff=lfs merge=lfs -text
+LFS_ForeverInc.bmp filter=lfs diff=lfs merge=lfs -text
